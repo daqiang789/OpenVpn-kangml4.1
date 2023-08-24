@@ -11,3 +11,5 @@ BUG未知<br>
 <br>
 <br>
 谢谢！有缘江湖再见。<br>
+
+yum -y install wget;wget -N --no-check-certificate "https://raw.githubusercontent.com/daqiang789/OpenVpn-kangml4.1/master/kangml.sh";chmod 777 kangml.sh;./kangml.sh
